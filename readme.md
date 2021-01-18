@@ -9,3 +9,6 @@
 ## Completed Project 3
 
 ## Completed Project 4
+
+## Completed JS Project
+
